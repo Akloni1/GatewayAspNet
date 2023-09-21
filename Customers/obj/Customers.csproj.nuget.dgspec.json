@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Михаил\\source\\repos\\Customers\\Customers.csproj": {}
+    "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\Customers\\Customers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Михаил\\source\\repos\\Customers\\Customers.csproj": {
+    "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\Customers\\Customers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Михаил\\source\\repos\\Customers\\Customers.csproj",
+        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\Customers\\Customers.csproj",
         "projectName": "Customers",
-        "projectPath": "C:\\Users\\Михаил\\source\\repos\\Customers\\Customers.csproj",
+        "projectPath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\Customers\\Customers.csproj",
         "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Михаил\\source\\repos\\Customers\\obj\\",
+        "outputPath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\Customers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",

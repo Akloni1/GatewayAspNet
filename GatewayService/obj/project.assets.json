@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Михаил\\source\\repos\\GatewayService\\GatewayService.csproj",
+      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\GatewayService\\GatewayService.csproj",
       "projectName": "GatewayService",
-      "projectPath": "C:\\Users\\Михаил\\source\\repos\\GatewayService\\GatewayService.csproj",
+      "projectPath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\GatewayService\\GatewayService.csproj",
       "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Михаил\\source\\repos\\GatewayService\\obj\\",
+      "outputPath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\GatewayService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",

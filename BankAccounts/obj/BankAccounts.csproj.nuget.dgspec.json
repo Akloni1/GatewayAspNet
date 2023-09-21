@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Михаил\\source\\repos\\BankAccounts\\BankAccounts.csproj": {}
+    "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\BankAccounts\\BankAccounts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Михаил\\source\\repos\\BankAccounts\\BankAccounts.csproj": {
+    "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\BankAccounts\\BankAccounts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Михаил\\source\\repos\\BankAccounts\\BankAccounts.csproj",
+        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\BankAccounts\\BankAccounts.csproj",
         "projectName": "BankAccounts",
-        "projectPath": "C:\\Users\\Михаил\\source\\repos\\BankAccounts\\BankAccounts.csproj",
+        "projectPath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\BankAccounts\\BankAccounts.csproj",
         "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Михаил\\source\\repos\\BankAccounts\\obj\\",
+        "outputPath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\BankAccounts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",

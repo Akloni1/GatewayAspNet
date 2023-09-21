@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M/dTHdn2OObvXqHKy4YcVvGU56d8QXRS9lTpmYxL8sJZEwZEgDjKnbTL1e1DC3uWYvc/r+5lXwplwDSFX2CNmA==",
+  "dgSpecHash": "zydGXLfpI+vBTdD28oRpKemvKsjKTIDlpnBPisqEnPPTzV+57Ik1szPW7RoXqg2GtxPy7qsLi4sAHfcY8sLVew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\source\\repos\\BankAccounts\\BankAccounts.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\BankAccounts\\BankAccounts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

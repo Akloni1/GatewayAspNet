@@ -9,7 +9,7 @@ namespace GatewayService.Controllers
         private readonly HttpClient _httpClient;
         public GatewayController(IHttpClientFactory httpClientFactory)
         {
-            _httpClient = httpClientFactory.CreateClient();
+            _httpClient = httpClientFactory.CreateClient() ?? throw new ArgumentNullException(nameof(httpClientFactory));
         }
         [HttpGet]
         public async Task<IActionResult> BankAccounts()
@@ -22,7 +22,13 @@ namespace GatewayService.Controllers
         {
             return await ProxyTo("https://localhost:5002/Customer");
         }
-             
+
+        [HttpGet]
+        public async Task<IActionResult> CustomersWithBankAccounts()
+        {
+            return await ProxyTo("https://localhost:5003/CustomersWithBankAccount");
+        }
+
         private async Task<ContentResult> ProxyTo(string url)
         {
            return Content(await _httpClient.GetStringAsync(url));

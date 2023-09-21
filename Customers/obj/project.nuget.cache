@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8byF8sRUR2poCqZPemv3a3ysWGsJbS5ZycGka5BEs469SinJbZFGwQngBWoZwnsPk0b3tC/ORgwqd92up7eSdg==",
+  "dgSpecHash": "97SYj4l++WfeUOqy0BWWLflnOthTfbGPuE/qnbtNGs2NgkbD8pfmYtzCnIg1OQKOuXor3dA3ywmt+dIOEJBP/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\source\\repos\\Customers\\Customers.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\GatewayAspNet\\Customers\\Customers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
